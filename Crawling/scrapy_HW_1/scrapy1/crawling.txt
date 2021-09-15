@@ -1,0 +1,500 @@
+rank : 1
+title : 가을 타나 봐
+artist : 이무진
+album_art : 가을 타나 봐 (REVIBE Vol.4)
+
+rank : 2
+title : 빨간 립스틱 (Feat. 윤미래)
+artist : 이하이
+album_art : 4 ONLY
+
+rank : 3
+title : 산책
+artist : 백예린 (Yerin Baek)
+album_art : 선물
+
+rank : 4
+title : Hey Mama (feat. Nicki Minaj &amp; Afrojack)
+artist : David Guetta(데이빗 게타)
+album_art : Listen [Deluxe]
+
+rank : 5
+title : 진심으로 너를 위해 부르는 노래 (Prod. 로코베리)
+artist : 김윤아
+album_art : 진심으로 너를 위해 부르는 노래 (Prod. 로코베리)
+
+rank : 6
+title : STAY
+artist : The Kid LAROI
+album_art : STAY
+
+rank : 7
+title : 한계
+artist : 백예린 (Yerin Baek)
+album_art : 선물
+
+rank : 8
+title : 색안경 (STEREOTYPE)
+artist : STAYC(스테이씨)
+album_art : STEREOTYPE
+
+rank : 9
+title : Queendom
+artist : Red Velvet (레드벨벳)
+album_art : Queendom - The 6th Mini Album
+
+rank : 10
+title : 신호등
+artist : 이무진
+album_art : 신호등
+
+rank : 11
+title : Next Level
+artist : aespa
+album_art : Next Level
+
+rank : 12
+title : Weekend
+artist : 태연 (TAEYEON)
+album_art : Weekend
+
+rank : 13
+title : 고백
+artist : 멜로망스(MeloMance)
+album_art : 세 번째 '고백'
+
+rank : 14
+title : 낙하 (with 아이유)
+artist : AKMU(악뮤)
+album_art : NEXT EPISODE
+
+rank : 15
+title : Antifreeze
+artist : 백예린 (Yerin Baek)
+album_art : 선물
+
+rank : 16
+title : LALISA
+artist : 리사(LISA)
+album_art : LALISA
+
+rank : 17
+title : 시간을 거슬러 (낮에 뜨는 달 X 케이윌)
+artist : 케이윌
+album_art : 시간을 거슬러 (낮에 뜨는 달 X 케이윌)
+
+rank : 18
+title : DUMB DUMB
+artist : 전소미
+album_art : DUMB DUMB
+
+rank : 19
+title : 좋아좋아
+artist : 조정석
+album_art : 슬기로운 의사생활 시즌2 OST Part 5
+
+rank : 20
+title : Permission to Dance
+artist : 방탄소년단
+album_art : Butter / Permission to Dance
+
+rank : 21
+title : 바라만 본다
+artist : MSG워너비(M.O.M)
+album_art : MSG워너비 1집
+
+rank : 22
+title : 끝이라고 말할 것 같았어 (Too Late)
+artist : 황치열
+album_art : 끝이라고 말할 것 같았어
+
+rank : 23
+title : 구원자 (Feat. B.I)
+artist : 이하이
+album_art : 4 ONLY
+
+rank : 24
+title : 헤픈 우연
+artist : 헤이즈(Heize)
+album_art : HAPPEN
+
+rank : 25
+title : Butter
+artist : 방탄소년단
+album_art : Butter
+
+rank : 26
+title : Bad Habits
+artist : Ed Sheeran(에드 시런)
+album_art : Shivers
+
+rank : 27
+title : 비가 오는 날엔 (2021)
+artist : 헤이즈(Heize)
+album_art : 비가 오는 날엔 (2021)
+
+rank : 28
+title : OHAYO MY NIGHT
+artist : 디핵(D-Hack)
+album_art : OHAYO MY NIGHT
+
+rank : 29
+title : 회상
+artist : 정경호
+album_art : 슬기로운 의사생활 시즌2 OST Part 9
+
+rank : 30
+title : 가까운 듯 먼 그대여
+artist : 카더가든
+album_art : 가까운 듯 먼 그대여
+
+rank : 31
+title : 비와 당신
+artist : 이무진
+album_art : 슬기로운 의사생활 시즌2 OST Part 1
+
+rank : 32
+title : ONLY
+artist : 이하이
+album_art : 4 ONLY
+
+rank : 33
+title : Peaches (feat. Daniel Caesar, Giveon)
+artist : Justin Bieber(저스틴 비버)
+album_art : Justice
+
+rank : 34
+title : 왜? 날
+artist : 백예린 (Yerin Baek)
+album_art : 선물
+
+rank : 35
+title : 그럴때마다
+artist : 백예린 (Yerin Baek)
+album_art : 선물
+
+rank : 36
+title : 머리어깨무릎발 (Feat. 원슈타인)
+artist : 이하이
+album_art : 4 ONLY
+
+rank : 37
+title : 고백
+artist : 10CM
+album_art : 두 번째 '고백'
+
+rank : 38
+title : 가을 우체국 앞에서
+artist : 김대명
+album_art : 슬기로운 의사생활 시즌2 OST Part 2
+
+rank : 39
+title : Better
+artist : 보아 (BoA)
+album_art : BETTER – The 10th Album
+
+rank : 40
+title : Dynamite
+artist : 방탄소년단
+album_art : Dynamite (DayTime Version)
+
+rank : 41
+title : Dun Dun Dance
+artist : 오마이걸(OH MY GIRL)
+album_art : Dear OHMYGIRL
+
+rank : 42
+title : 라일락
+artist : 아이유(IU)
+album_art : IU 5th Album 'LILAC'
+
+rank : 43
+title : PING PONG
+artist : 현아&amp;던
+album_art : 1+1=1
+
+rank : 44
+title : 돌아가자
+artist : 백예린 (Yerin Baek)
+album_art : 선물
+
+rank : 45
+title : 다정히 내 이름을 부르면
+artist : 경서예지
+album_art : 다정히 내 이름을 부르면 (경서예지 x 전건호)
+
+rank : 46
+title : Off My Face
+artist : Justin Bieber(저스틴 비버)
+album_art : Justice
+
+rank : 47
+title : 고백
+artist : 장범준
+album_art : 첫 번째 '고백'
+
+rank : 48
+title : 롤린 (Rollin')
+artist : 브레이브걸스(Brave Girls)
+album_art : Rollin'
+
+rank : 49
+title : ASAP
+artist : STAYC(스테이씨)
+album_art : STAYDOM
+
+rank : 50
+title : Alcohol-Free
+artist : TWICE (트와이스)
+album_art : Taste of Love
+
+rank : 51
+title : Celebrity
+artist : 아이유(IU)
+album_art : IU 5th Album 'LILAC'
+
+rank : 52
+title : 이젠 잊기로 해요 (Drama Ver.)
+artist : 미도와 파라솔
+album_art : 슬기로운 의사생활 시즌2 OST Special
+
+rank : 53
+title : Hate that... (Feat. 태연)
+artist : 키 (KEY)
+album_art : Hate that...
+
+rank : 54
+title : 벌써 일년 (Drama Ver.)
+artist : 미도와 파라솔
+album_art : 슬기로운 의사생활 시즌2 OST Special
+
+rank : 55
+title : 제자리 걸음
+artist : V.O.S.
+album_art : 제자리 걸음
+
+rank : 56
+title : 아무것도 하기 싫으면 어떡해
+artist : 백아연
+album_art : Observe
+
+rank : 57
+title : 로맨틱 선데이
+artist : 카더가든
+album_art : 갯마을 차차차 OST Part 1
+
+rank : 58
+title : 이대로만 (Feat. 죠지)
+artist : 로꼬
+album_art : 이대로만
+
+rank : 59
+title : It's My Life
+artist : 윤미래
+album_art : 슬기로운 의사생활 시즌2 OST Part 10
+
+rank : 60
+title : 이게 나야 (Feat. CHANGMO (창모))
+artist : 한요한
+album_art : 초희귀종
+
+rank : 61
+title : 안녕 (Hello)
+artist : 조이 (JOY)
+album_art : 안녕 (Hello) - Special Album
+
+rank : 62
+title : 여전히 아름다운지
+artist : 세븐틴(SEVENTEEN)
+album_art : 슬기로운 의사생활 시즌2 OST Part 8
+
+rank : 63
+title : 도망가자 (Run With Me)
+artist : 선우정아(Sunwoojunga)
+album_art : Serenade
+
+rank : 64
+title : Loving You Girl (feat. Hkeem)
+artist : Peder Elias
+album_art : Loving You Girl
+
+rank : 65
+title : Timeless
+artist : SG워너비
+album_art : Sg Wanna Be+
+
+rank : 66
+title : Kiss Me More (feat. SZA)
+artist : Doja Cat(도자 캣)
+album_art : Kiss Me More
+
+rank : 67
+title : Shivers
+artist : Ed Sheeran(에드 시런)
+album_art : Shivers
+
+rank : 68
+title : 슈퍼스타
+artist : 미도와 파라솔
+album_art : 슬기로운 의사생활 시즌2 OST Part 6
+
+rank : 69
+title : 비 오는 날 듣기 좋은 노래 (Feat. Colde)
+artist : 에픽하이 (EPIK HIGH)
+album_art : 비 오는 날 듣기 좋은 노래
+
+rank : 70
+title : You can't sit with us
+artist : 선미
+album_art : 6분의1
+
+rank : 71
+title : Black Mamba
+artist : aespa
+album_art : Black Mamba
+
+rank : 72
+title : 하루만 더
+artist : 빅마마(Big Mama)
+album_art : 하루만 더
+
+rank : 73
+title : 나인가요
+artist : 백현(BAEKHYUN)
+album_art : 홍천기 OST Part.1
+
+rank : 74
+title : 은근히 낯가려요 (feat. RAVI)
+artist : 부끄뚱
+album_art : 은근히 낯가려요(feat. RAVI) 
+
+rank : 75
+title : PADO
+artist : 비비(BIBI)
+album_art : PADO
+
+rank : 76
+title : 상상더하기
+artist : 라붐(LABOUM)
+album_art : Fresh Adventure
+
+rank : 77
+title : 운전만해 (We Ride)
+artist : 브레이브걸스(Brave Girls)
+album_art : We Ride
+
+rank : 78
+title : Lovesick Girls
+artist : BLACKPINK
+album_art : THE ALBUM
+
+rank : 79
+title : Tiny Riot
+artist : Sam Ryder
+album_art : More
+
+rank : 80
+title : 어느 햇살 좋은 날
+artist : 케이시
+album_art : 갯마을 차차차 OST Part 2
+
+rank : 81
+title : Deja Vu 
+artist : ATEEZ(에이티즈)
+album_art : ZERO : FEVER Part.3
+
+rank : 82
+title : 에잇(Prod.&amp;Feat. SUGA of BTS)
+artist : 아이유(IU)
+album_art : 에잇
+
+rank : 83
+title : Blueming
+artist : 아이유(IU)
+album_art : Love poem
+
+rank : 84
+title : 사진을 보다가
+artist : 다비치
+album_art : 사진을 보다가 (REVIBE Vol.2)
+
+rank : 85
+title : 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
+artist : AKMU(악뮤)
+album_art : 항해
+
+rank : 86
+title : 어푸 (Ah puh)
+artist : 아이유(IU)
+album_art : IU 5th Album 'LILAC'
+
+rank : 87
+title : 흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야
+artist : 장범준
+album_art : 멜로가 체질 OST Part 3
+
+rank : 88
+title : 뚫고 지나가요
+artist : DAY6 (Even of Day)
+album_art : Right Through Me
+
+rank : 89
+title : Leave Before You Love Me
+artist : Marshmello(마시멜로)
+album_art : Leave Before You Love Me
+
+rank : 90
+title : 치맛바람 (Chi Mat Ba Ram)
+artist : 브레이브걸스(Brave Girls)
+album_art : Summer Queen
+
+rank : 91
+title : 하늘을 달리다
+artist : HYNN(박혜원)
+album_art : 슬기로운 의사생활 시즌2 OST Part 11
+
+rank : 92
+title : parachute
+artist : John K
+album_art : love + everything else
+
+rank : 93
+title : 내 손을 잡아
+artist : 아이유(IU)
+album_art : 최고의 사랑 (MBC 수목드라마) - Part.4 
+
+rank : 94
+title : Savage Love (Laxed - Siren Beat) (BTS Remix)
+artist : Jawsh 685
+album_art : Savage Love (Laxed - Siren Beat) [BTS Remix]
+
+rank : 95
+title : 사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)
+artist : 호미들
+album_art : 사이렌 Remix
+
+rank : 96
+title : 별빛 같은 나의 사랑아
+artist : 임영웅
+album_art : 별빛 같은 나의 사랑아
+
+rank : 97
+title : Talk &amp; Talk
+artist : 프로미스나인
+album_art : Talk &amp; Talk
+
+rank : 98
+title : Long Run (Feat. 호미들)
+artist : 한요한
+album_art : 초희귀종
+
+rank : 99
+title : 밤편지
+artist : 아이유(IU)
+album_art : 밤편지
+
+rank : 100
+title : Dolphin
+artist : 오마이걸(OH MY GIRL)
+album_art : NONSTOP
+
